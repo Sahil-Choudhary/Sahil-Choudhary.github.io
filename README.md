@@ -2,6 +2,6 @@
 My Blog
 =============================
 
-[Live Website](http://naresh10oct.github.io)
+[Live Website](http://naresh-chaudhary.github.io)
 
 
